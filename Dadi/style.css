@@ -1,0 +1,21 @@
+body {
+  background-color: dodgerblue;
+  
+}
+
+img {
+  max-width: 30%;
+}
+
+#message {
+  font-size: 6rem;
+}
+
+h1 {
+  font-size: 4rem;
+  font-weight: bold;
+}
+
+.btn {
+  display: block;
+}
